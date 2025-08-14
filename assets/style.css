@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 500px;
+    margin: auto;
+}
+form {
+    margin-bottom: 20px;
+}
+.task {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
